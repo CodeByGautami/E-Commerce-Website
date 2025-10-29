@@ -108,5 +108,14 @@ API Endpoints — Handle CRUD operations for product data.
 
 🔗 [https://github.com/CodeByGautami]
 
+## Screenshorts
+
+<img width="1815" height="794" alt="image" src="https://github.com/user-attachments/assets/72a7b2cb-811c-42c5-983e-0ea313c8e189" />
+<img width="1856" height="814" alt="image" src="https://github.com/user-attachments/assets/f7ea9539-705f-48dd-9c06-1e8bdf756569" />
+<img width="1848" height="813" alt="image" src="https://github.com/user-attachments/assets/b0e5f5af-9930-4b3e-91c2-cb4a027a5858" />
+<img width="1839" height="813" alt="image" src="https://github.com/user-attachments/assets/7bc00a35-e0dc-4242-bf2c-b791dfe004a5" />
+
+
+
 
 
