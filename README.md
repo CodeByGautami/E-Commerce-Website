@@ -45,12 +45,12 @@ E-COMMERCE/
 ├── styles/
 │   └── style.css
 │
-├── utils/                 # (if you are using this)
+├── utils/                
 │   └── (any helper files)
 │
-├── .env.example           # ✅ Keep this for reference
-├── .gitignore             # ✅ You’ll create this file (see below)
-├── next.config.js         # (if exists)
+├── .env.example           
+├── .gitignore             
+├── next.config.js         
 ├── package.json
 ├── package-lock.json
 └── README.md
